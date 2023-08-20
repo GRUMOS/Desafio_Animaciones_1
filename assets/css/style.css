@@ -106,7 +106,7 @@ main{
         top: 0;
         left: 0;
         width: 100%;
-        padding: 10px;
+        padding: 20px;
         z-index: 1000; 
     }
     .logo-mobile {
